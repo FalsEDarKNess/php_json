@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Yar Zar Mon",
+        "email": "yarzarmon.yzm@gmail.com",
+        "gender": "Male",
+        "address": "Yangon",
+        "profile": "photo\/apple.png"
+    },
+    {
+        "name": "Ma Ma ",
+        "email": "mama@gmail.com",
+        "gender": "Female",
+        "address": "Pyin Oo Lwin",
+        "profile": "photo\/iphone se 2gen.png"
+    },
+    {
+        "name": "Ko Min",
+        "email": "komin@gmail.com",
+        "gender": "Male",
+        "address": "Mawlamyine",
+        "profile": "photo\/iphone se 1gen.png"
+    },
+    {
+        "name": "Thu Thu",
+        "email": "thuthu@gmail.com",
+        "gender": "Female",
+        "address": "Naypyitaw",
+        "profile": "photo\/iphoneXR.png"
+    }
+]
